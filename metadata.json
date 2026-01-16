@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ElectroHub - Premium Electronic Accessories",
+  "description": "A high-performance eCommerce platform for premium electronic accessories and tech services, featuring AI-powered compatibility assistance and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
